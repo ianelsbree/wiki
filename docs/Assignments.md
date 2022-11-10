@@ -10,8 +10,8 @@
 ## Previous
 
 ---
-Go back to [[Index]]
+Go back to [[index]]
 Created: 2022-11-08
 © 2022 Ian Elsbree
 
-[Index]: Index "Home Page"
+[index]: index "Home Page"

@@ -10,8 +10,8 @@ A list of the media I'm currently watching/reading.
 - [A Modern Method for Guitar](attachments/A_Modern_Method_for_Guitar_Volume_1.pdf)
 
 ---
-Go back to [[Index]]
+Go back to [[index]]
 Created: 2022-11-08
 © 2022 Ian Elsbree
 
-[Index]: Index "Home Page"
+[index]: index "Home Page"
