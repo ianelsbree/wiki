@@ -2,4 +2,4 @@
 
 My personal knowledge base, including notes and projects.
 
-[Index](docs/index.md)
+[Index](./index.md)
