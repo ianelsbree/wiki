@@ -34,7 +34,7 @@ Doxygen is not complicated to use in a simple use case. Most basically, you only
 
 Doxygen scans the comments in your source code. To make Doxygen aware of the information it needs to generate the documentation, you need to use special comments. You will need to put a Doxygen comment at the top of your file (a file header), specifying information about the file, as well as comments above each of your functions (function headers), specifying information about each of them. Here is an example Doxygen-style comment (this one is for a function):
 
-```c
+```text
 /**
  * @brief Dynamically allocates a new node, initializing it with data.
  *
