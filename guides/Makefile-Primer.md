@@ -35,7 +35,7 @@ Makefiles are divided into sections. There is the top of the file, where global 
 
 An example makefile, to give you an idea of the structure:
 
-```
+```makefile
 VARIABLE=some text that I'd like to replace the name of this variable
 COMPILECOMMAND=gcc
 COMPILEARGUMENTS=-O -Wextra -Werror -Wall -ansi -pedantic
