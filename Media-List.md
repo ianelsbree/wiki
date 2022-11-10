@@ -14,4 +14,4 @@ Go back to [[index]]
 Created: 2022-11-08
 © 2022 Ian Elsbree
 
-[[index]]: index "Home Page"
+[index]: index "Home Page"
