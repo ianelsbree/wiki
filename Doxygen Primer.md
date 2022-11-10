@@ -1,13 +1,12 @@
 # Doxygen Primer
 
-##### By Ian Elsbree, 2022-09-19
+By Ian Elsbree, 2022-09-19
 
 -----
 
 ## Table of Contents
 
 - [Doxygen Primer](#doxygen-primer)
-        - [By Ian Elsbree, 2022-09-19](#by-ian-elsbree-2022-09-19)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Doxygen](#doxygen)
@@ -16,9 +15,6 @@
     - [Using Someone Else's Doxyfile](#using-someone-elses-doxyfile)
   - [Turning LaTeX into PDF](#turning-latex-into-pdf)
   - [Conclusion](#conclusion)
-        - [By Ian Elsbree, 2022-09-19](#by-ian-elsbree-2022-09-19-1)
-        - [ianelsbree@gmail.com](#ianelsbreegmailcom)
-        - [ian.elsbree@digipen.edu](#ianelsbreedigipenedu)
 
 ## Introduction
 
@@ -38,7 +34,7 @@ Doxygen is not complicated to use in a simple use case. Most basically, you only
 
 Doxygen scans the comments in your source code. To make Doxygen aware of the information it needs to generate the documentation, you need to use special comments. You will need to put a Doxygen comment at the top of your file (a file header), specifying information about the file, as well as comments above each of your functions (function headers), specifying information about each of them. Here is an example Doxygen-style comment (this one is for a function):
 
-```
+```c
 /**
  * @brief Dynamically allocates a new node, initializing it with data.
  *
@@ -100,10 +96,16 @@ After you run `make`, you'll see a file called `refman.pdf` is generated. That f
 
 You should now have some introductory knowledge of how to use Doxygen effectively. If you feel there is anything this document did not cover that you think it should, or anything you're left wondering after reading, or anything I can improve, please let me know! My goal is for this document to be easily read and comprehended, and to give you all the knowledge you need to be a more effective developer.
 
------
+---
 
-##### By Ian Elsbree, 2022-09-19
+By Ian Elsbree, 2022-09-19
 
-##### ianelsbree@gmail.com
+ianelsbree@gmail.com
 
-##### ian.elsbree@digipen.edu
+ian.elsbree@digipen.edu
+
+---
+Go back to [[index]]
+Created: 2022-11-09
+Last Updated: 2022-11-09
+© 2022 Ian Elsbree
