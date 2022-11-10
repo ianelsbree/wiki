@@ -1,6 +1,6 @@
 # Projects
 
-### [[Hargevin]]
+## [[Hargevin]]
 
 ---
 Go back to [[Index]]
