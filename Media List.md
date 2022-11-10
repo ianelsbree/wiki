@@ -13,3 +13,5 @@ A list of the media I'm currently watching/reading.
 Go back to [[Index]]
 Created: 2022-11-08
 © 2022 Ian Elsbree
+
+[Index]: Index "Home Page"
