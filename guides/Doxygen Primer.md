@@ -2,7 +2,7 @@
 
 By Ian Elsbree, 2022-09-19
 
------
+---
 
 ## Table of Contents
 
@@ -97,15 +97,9 @@ After you run `make`, you'll see a file called `refman.pdf` is generated. That f
 You should now have some introductory knowledge of how to use Doxygen effectively. If you feel there is anything this document did not cover that you think it should, or anything you're left wondering after reading, or anything I can improve, please let me know! My goal is for this document to be easily read and comprehended, and to give you all the knowledge you need to be a more effective developer.
 
 ---
-
-By Ian Elsbree, 2022-09-19
-
-ianelsbree@gmail.com
-
-ian.elsbree@digipen.edu
-
----
 Go back to [[index]]
-Created: 2022-11-09
+Created: 2022-09-19
 Last Updated: 2022-11-09
 © 2022 Ian Elsbree
+
+[index]: ../index "Home Page"
