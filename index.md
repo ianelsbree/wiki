@@ -1,7 +1,5 @@
 # Home Page
 
-![A portrait](attachments/portrait.png)
-
 ## Contents
 
 ### [[Guides]]
