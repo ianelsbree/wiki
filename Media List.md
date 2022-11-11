@@ -4,14 +4,14 @@ A list of the media I'm currently watching/reading.
 
 ## Books
 
-- [The Rust Programming Language](https://rust-book.cs.brown.edu/ch06-01-defining-an-enum.html)
-- [Erak's Ransom](https://archive.org/details/eraksransom0000flan/page/80/mode/2up?view=theater)
+- [Erak's Ransom](https://archive.org/details/eraksransom0000flan/page/120/mode/2up?view=theater)
 - [A Modern Method for Guitar](attachments/A_Modern_Method_for_Guitar_Volume_1.pdf)
+- [The Rust Programming Language](https://rust-book.cs.brown.edu/ch06-01-defining-an-enum.html)
 
 ## TV Shows
 
-- [House M.D.](https://www.amazon.com/gp/video/detail/B00C15T422/ref=atv_hm_hom_1_c_lZOsi7_2_2)
 - [Mr. Robot](https://www.amazon.com/gp/video/detail/B00YBX664Q/ref=atv_dp_season_select_s1)
+- [House M.D.](https://www.amazon.com/gp/video/detail/B00C15T422/ref=atv_hm_hom_1_c_lZOsi7_2_2)
 - [Cyberpunk: Edgeruners](https://www.netflix.com/browse?jbv=81054853)
 
 ---
