@@ -1,5 +1,7 @@
 # Guides
 
+Some guides I have written over time, mostly teaching basic usage of some tools.
+
 ## [[Doxygen Primer]]
 
 ## [[Makefile Primer]]
