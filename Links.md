@@ -2,7 +2,7 @@
 
 Some hyperlinks to some sites.
 
-My [GitHub](https://github.com/ianelsbree)
+- My [GitHub](https://github.com/ianelsbree)
 
 ---
 Go back to [[index]]
