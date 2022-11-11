@@ -1,5 +1,7 @@
 # Projects
 
+Some projects I may or may not be actively working on. Yeah, they're gonna take a while, but I'll be happy to have created something.
+
 ## [[Hargevin]]
 
 ---
