@@ -1,6 +1,6 @@
 # Home Page
 
-[A portrait](attachments/portrait.png)
+![A portrait](attachments/portrait.png)
 
 ## Contents
 
