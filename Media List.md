@@ -14,6 +14,11 @@ A list of the media I'm currently watching/reading.
 - [House M.D.](https://www.amazon.com/gp/video/detail/B00C15T422/ref=atv_hm_hom_1_c_lZOsi7_2_2)
 - [Cyberpunk: Edgeruners](https://www.netflix.com/browse?jbv=81054853)
 
+## Things People Want Me to See
+
+- [Arcane]()
+- [Amphibia]()
+
 ---
 Go back to [[index]]
 Created: 2022-11-08
