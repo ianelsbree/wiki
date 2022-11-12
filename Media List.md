@@ -16,8 +16,8 @@ A list of the media I'm currently watching/reading.
 
 ## Things People Want Me to See
 
-- [Arcane]()
-- [Amphibia]()
+- [Arcane](https://www.netflix.com/search?q=arcane&jbv=81435684)
+- [Amphibia](https://www.disneyplus.com/series/amphibia/4jsQ0zDkUTeN)
 
 ---
 Go back to [[index]]
