@@ -5,6 +5,7 @@ A list of the media I'm currently watching/reading.
 ## Books
 
 - [Erak's Ransom](https://archive.org/details/eraksransom0000flan/page/120/mode/2up?view=theater)
+- [All Systems Red](https://libbyapp.com/open/loan/8145208/3783062)
 - [A Modern Method for Guitar](attachments/A_Modern_Method_for_Guitar_Volume_1.pdf)
 - [The Rust Programming Language](https://rust-book.cs.brown.edu/ch06-01-defining-an-enum.html)
 
