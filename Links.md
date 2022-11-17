@@ -4,7 +4,6 @@ Some hyperlinks to some sites and other things.
 
 - My [GitHub](https://github.com/ianelsbree) to see other repositories and contributions of mine.
 - My [e-mail](mailto:ianelsbree@gmail.com) for communicating directly to me
--
 
 ---
 Go back to [[index]]
