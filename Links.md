@@ -1,8 +1,9 @@
 # Links
 
-Some hyperlinks to some sites.
+Some hyperlinks to some sites and other things.
 
 - My [GitHub](https://github.com/ianelsbree)
+- My [e-mail](mailto:ianelsbree@gmail.com) for communicating directly to me
 
 ---
 Go back to [[index]]
