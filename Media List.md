@@ -18,6 +18,7 @@ A list of the media I'm currently watching/reading.
 
 ## Things People Want Me to See
 
+- [Knives Out](https://en.wikipedia.org/wiki/Knives_Out)
 - [Arcane](https://www.netflix.com/search?q=arcane&jbv=81435684) (Netflix)
 - [Amphibia](https://www.disneyplus.com/series/amphibia/4jsQ0zDkUTeN) (Disney+)
 
