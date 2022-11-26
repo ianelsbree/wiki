@@ -4,26 +4,26 @@ A list of the media I'm currently watching/reading.
 
 ## Books
 
-- [The Kings of Clonmel](https://en.wikipedia.org/wiki/The_Kings_of_Clonmel)
-- [All Systems Red](https://libbyapp.com/open/loan/8145208/3783062)
-- [A Modern Method for Guitar](attachments/A_Modern_Method_for_Guitar_Volume_1.pdf)
-- [The Rust Programming Language](https://rust-book.cs.brown.edu/ch06-01-defining-an-enum.html)
-- [A Mathematician's Lament](attachments/LockhartsLament.pdf)
+- [The Kings of Clonmel](https://en.wikipedia.org/wiki/The_Kings_of_Clonmel) (Print)
+- [All Systems Red](https://libbyapp.com/open/loan/8145208/3783062) (Audiobook - Libby)
+- [A Modern Method for Guitar](attachments/A_Modern_Method_for_Guitar_Volume_1.pdf) (PDF)
+- [The Rust Programming Language](https://rust-book.cs.brown.edu/ch06-01-defining-an-enum.html) (E-Book)
+- [A Mathematician's Lament](attachments/LockhartsLament.pdf) (PDF)
 
 ## TV Shows
 
-- [Mr. Robot](https://www.amazon.com/gp/video/detail/B00YBX664Q/ref=atv_dp_season_select_s2)
-- [House M.D.](https://www.amazon.com/gp/video/detail/B00C15T422/ref=atv_hm_hom_1_c_lZOsi7_2_2)
-- [Cyberpunk: Edgeruners](https://www.netflix.com/browse?jbv=81054853)
+- [Mr. Robot](https://www.amazon.com/gp/video/detail/B00YBX664Q/ref=atv_dp_season_select_s2) (Prime Video)
+- [House M.D.](https://www.amazon.com/gp/video/detail/B00C15T422/ref=atv_hm_hom_1_c_lZOsi7_2_2) (Prime Video)
+- [Cyberpunk: Edgeruners](https://www.netflix.com/browse?jbv=81054853) (Netflix)
 
 ## Things People Want Me to See
 
-- [Arcane](https://www.netflix.com/search?q=arcane&jbv=81435684)
-- [Amphibia](https://www.disneyplus.com/series/amphibia/4jsQ0zDkUTeN)
+- [Arcane](https://www.netflix.com/search?q=arcane&jbv=81435684) (Netflix)
+- [Amphibia](https://www.disneyplus.com/series/amphibia/4jsQ0zDkUTeN) (Disney+)
 
 ## Finished
 
-- [Erak's Ransom](https://archive.org/details/eraksransom0000flan/page/288/mode/2up?view=theater)
+- [Erak's Ransom](https://archive.org/details/eraksransom0000flan/page/288/mode/2up?view=theater) (E-Book, scan of print)
 
 ---
 Go back to [[index]]
