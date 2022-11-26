@@ -23,6 +23,7 @@ A list of the media I'm currently watching/reading.
 
 ## Finished
 
+- [Glass Onion](https://en.wikipedia.org/wiki/Glass_Onion%3A_A_Knives_Out_Mystery) (Theatre)
 - [Erak's Ransom](https://archive.org/details/eraksransom0000flan/page/288/mode/2up?view=theater) (E-Book, scan of print)
 
 ---
