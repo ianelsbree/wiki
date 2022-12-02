@@ -27,7 +27,7 @@ A list of the media I'm currently watching/reading.
 - [Erak's Ransom](https://archive.org/details/eraksransom0000flan/page/288/mode/2up?view=theater) (E-Book, scan of print)
 - [Knives Out](https://en.wikipedia.org/wiki/Knives_Out)
 - [Top Gun: Maverick](https://en.wikipedia.org/wiki/Top_Gun:_Maverick)
-- [The Maritan](https://en.wikipedia.org/wiki/The_Martian_(Weir_novel))
+- [The Martian](https://en.wikipedia.org/wiki/The_Martian_(Weir_novel))
 - [The Martian](https://en.wikipedia.org/wiki/The_Martian_(film))
 
 ---
