@@ -2,9 +2,9 @@
 
 Some guides I have written over time, mostly teaching basic usage of some tools.
 
-## [[Doxygen Primer]]
+## [Doxygen Primer]
 
-## [[Makefile Primer]]
+## [Makefile Primer]
 
 ---
 Go back to [Home]  

@@ -1,6 +1,6 @@
 # Media List
 
-A list of the media I'm currently watching/reading.
+A list of the media I'm currently watching/reading. Obviously this list is not comprehensive, because I don't remember every book and movie I've read and watched.
 
 ## Books
 
@@ -18,8 +18,8 @@ A list of the media I'm currently watching/reading.
 
 ## Things People Want Me to See
 
-- [Arcane](https://www.netflix.com/search?q=arcane&jbv=81435684) (Netflix)
-- [Amphibia](https://www.disneyplus.com/series/amphibia/4jsQ0zDkUTeN) (Disney+)
+- [Arcane](https://www.netflix.com/search?q=arcane&jbv=81435684)
+- [Amphibia](https://www.disneyplus.com/series/amphibia/4jsQ0zDkUTeN)
 
 ## Finished
 
@@ -43,7 +43,7 @@ A list of the media I'm currently watching/reading.
 ---
 Go back to [Home]  
 Created: 2022-11-08  
-Last Updated: 2022-12-01  
+Last Updated: 2023-03-22  
 © 2022 Ian Elsbree  
 
 [Home]: index "Home Page"
