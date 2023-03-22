@@ -12,7 +12,7 @@ E Engine is a project I'm working on to create my own custom game engine. It's w
 
 ## Graphics
 
-I don't know if I'm going to use [OpenGl](https://www.opengl.org/) or [Vulkan](https://www.vulkan.org/) as the rendering backend yet.
+At this point, I think I'm going to try using [Vulkan](https://www.vulkan.org/), mostly as a learning experience. There's an officially-referenced Rust crate for the Vulkan API called [Ash](https://crates.io/crates/ash) that seems like it might work well.
 
 ## Audio
 
