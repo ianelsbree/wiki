@@ -12,7 +12,7 @@ E Engine is a project I'm working on to create my own custom game engine. It's w
 
 ## Graphics
 
-At this point, I think I'm going to try using [Vulkan](https://www.vulkan.org/), mostly as a learning experience. There's an officially-referenced Rust crate for the Vulkan API called [Ash](https://crates.io/crates/ash) that seems like it might work well.
+At this point, I think I'm going to try using [Vulkan](https://www.vulkan.org/), mostly as a learning experience. There's an officially-referenced Rust crate for the Vulkan API called [Ash](https://crates.io/crates/ash) that seems like it might work well. However, the fact that it uses `unsafe` rust bindings has me a little bit worried, so I want to look into what that exactly entails on my end. If that doesn't work out, there's another crate called [Vulkano](https://crates.io/crates/vulkano) that calls itself a safe wrapper, so that would be my other option.
 
 ## Audio
 
