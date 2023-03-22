@@ -8,13 +8,10 @@ Notes from various days.
 - [2022-11-14]
 
 ---
-Go back to [Home][index]
-
-Created: 2022-11-08
-
-Last Updated: 2023-03-22
-
-© 2022 Ian Elsbree
+Go back to [Home][index]  
+Created: 2022-11-08  
+Last Updated: 2023-03-22  
+© 2022 Ian Elsbree  
 
 [2022-11-09]: journal/2022-11-09 "Wednesday, November 9, 2022 - "Just Some Class Notes""
 [2022-11-10]: journal/2022-11-10 "Thursday, November 10, 2022 - "Rigid-Body System Success""
