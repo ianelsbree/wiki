@@ -7,9 +7,9 @@ Some hyperlinks to some sites and other things.
 - The [GitHub Respository](https://github.com/ianelsbree/wiki) for this website
 
 ---
-Go back to [index]  
+Go back to [Home]  
 Created: 2022-11-10  
 Last Updated: 2022-11-25  
 © 2022 Ian Elsbree  
 
-[index]: index "Home Page"
+[Home]: index "Home Page"

@@ -31,9 +31,9 @@ A list of the media I'm currently watching/reading.
 - [The Martian](https://en.wikipedia.org/wiki/The_Martian_(film))
 
 ---
-Go back to [index]  
+Go back to [Home]  
 Created: 2022-11-08  
 Last Updated: 2022-12-01  
 © 2022 Ian Elsbree  
 
-[index]: index "Home Page"
+[Home]: index "Home Page"
