@@ -28,9 +28,7 @@ A list of the media I'm currently watching/reading. Obviously this list is not c
 - [Top Gun: Maverick](https://www.imdb.com/title/tt1745960/)
 - [The Martian (Novel)](https://www.google.com/books/edition/The_Martian/OPAgEAAAQBAJ)
 - [The Martian (Film)](https://www.imdb.com/title/tt3659388/)
-
 - Ranger's Apprentice
-
   - [The Ruins of Gorlan](https://www.google.com/books/edition/The_Ruins_of_Gorlan/4I6RDwAAQBAJ)
   - [The Burning Bridge](https://www.google.com/books/edition/The_Burning_Bridge/BbxvDwAAQBAJ)
   - [The Icebound Land](https://www.google.com/books/edition/The_Icebound_Land/UsQur0UufBsC)
