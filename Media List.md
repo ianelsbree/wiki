@@ -26,7 +26,7 @@ A list of the media I'm currently watching/reading.
 - [Glass Onion](https://en.wikipedia.org/wiki/Glass_Onion%3A_A_Knives_Out_Mystery) (Theatre)
 - [Knives Out](https://en.wikipedia.org/wiki/Knives_Out)
 - [Top Gun: Maverick](https://en.wikipedia.org/wiki/Top_Gun:_Maverick)
-- [The Martian (Novel)](https://en.wikipedia.org/wiki/The_Martian_(Weir_novel))
+- [The Martian (Novel)](https://www.google.com/books/edition/The_Martian/OPAgEAAAQBAJ)
 - [The Martian (Film)](https://en.wikipedia.org/wiki/The_Martian_(film))
 - [The Ruins of Gorlan](https://www.google.com/books/edition/The_Ruins_of_Gorlan/4I6RDwAAQBAJ)
 - [The Burning Bridge](https://www.google.com/books/edition/The_Burning_Bridge/BbxvDwAAQBAJ)
