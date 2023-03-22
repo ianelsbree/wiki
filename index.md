@@ -4,15 +4,15 @@ Welcome to my wiki! Here you will find a collection of pages, including things l
 
 ## Contents
 
-### [[Guides]]
+### [Guides]
 
-### [[Projects]]
+### [Projects]
 
-### [[Media List]]
+### [Media List]
 
-### [[Notes]]
+### [Notes]
 
-### [[Links]]
+### [Links]
 
 ---
 Created: 2022-11-08  
