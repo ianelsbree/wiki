@@ -9,8 +9,11 @@ Notes from various days.
 
 ---
 Go back to [Home][index]
+
 Created: 2022-11-08
-Last Updated: 2022-11-14
+
+Last Updated: 2023-03-22
+
 © 2022 Ian Elsbree
 
 [2022-11-09]: journal/2022-11-09 "Wednesday, November 9, 2022 - "Just Some Class Notes""
