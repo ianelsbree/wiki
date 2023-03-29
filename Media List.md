@@ -16,8 +16,9 @@ A list of the media I'm currently watching/reading. Obviously this list is not c
 - [House M.D.](https://www.amazon.com/gp/video/detail/B00C15T422/ref=atv_hm_hom_1_c_lZOsi7_2_2) (Prime Video)
 - [Cyberpunk: Edgeruners](https://www.netflix.com/browse?jbv=81054853) (Netflix)
 
-## Things People Want Me to See
+## Things People Want Me to Look At
 
+- [The House of the Scorpion](https://archive.org/details/houseofscorpion0000farm/mode/2up)
 - [Arcane](https://www.netflix.com/search?q=arcane&jbv=81435684)
 - [Amphibia](https://www.disneyplus.com/series/amphibia/4jsQ0zDkUTeN)
 
@@ -41,7 +42,7 @@ A list of the media I'm currently watching/reading. Obviously this list is not c
 ---
 Go back to [Home]  
 Created: 2022-11-08  
-Last Updated: 2023-03-22  
-© 2022 Ian Elsbree  
+Last Updated: 2023-03-28 
+© 2023 Ian Elsbree  
 
 [Home]: index "Home Page"
